@@ -1,0 +1,4 @@
+## Status
+[![Build & Deploy Angular Frontend](https://github.com/TexhFexLabs/frontendWS/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/TexhFexLabs/frontendWS/actions/workflows/build-and-deploy.yml)
+[![Build & Deploy Webhook Service](https://github.com/TexhFexLabs/helium-webhook-handler/actions/workflows/deploy.yml/badge.svg)](https://github.com/TexhFexLabs/helium-webhook-handler/actions/workflows/deploy.yml)
+[![Build & Deploy Backend Service](https://github.com/TexhFexLabs/backend/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/TexhFexLabs/backend/actions/workflows/build-and-deploy.yml)
